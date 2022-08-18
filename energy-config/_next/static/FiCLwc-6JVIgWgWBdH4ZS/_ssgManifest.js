@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fpowerwall\u002Fdesign\u002Fconfirmation"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
